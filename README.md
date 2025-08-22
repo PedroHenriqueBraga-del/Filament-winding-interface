@@ -7,4 +7,6 @@ Este código implementa a interface utilizada no processo de bobinagem filamenta
 
 * O código Python utilizado para o processo de bobinagem não será fornecido, pois é empregado como material de estudo no laboratório. Será disponibilizado apenas o código referente à interface
 
-
+<div align="center">
+<img width=90% src="https://github.com/PedroHenriqueBraga-del/Filament-winding-interface/blob/main/Imagens/interface.JPG?raw=true"/> 
+</div>
